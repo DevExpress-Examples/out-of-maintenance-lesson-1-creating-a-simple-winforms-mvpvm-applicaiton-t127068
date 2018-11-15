@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainForm.cs](./CS/MyMvpvmApplication/MainForm.cs)**
+* [Task.cs](./CS/MyMvpvmApplication/Model/Task.cs)
+* [TaskCollectionViewModel.cs](./CS/MyMvpvmApplication/ViewModels/TaskCollectionViewModel.cs)
+* [TaskCollectionView.cs](./CS/MyMvpvmApplication/Views/TaskCollectionView.cs)
+<!-- default file list end -->
 # Lesson 1 - Creating a Simple WinForms MVPVM Applicaiton
 
 
